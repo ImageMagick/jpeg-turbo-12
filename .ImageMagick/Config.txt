@@ -9,11 +9,13 @@ BITS_IN_JSAMPLE=12
 [EXCLUDES]
 doc\
 fuzz\
-java\
+jna\
 release\
 sharedlib\
 simd\
 src\md5\
+src\spng\
+src\bmpsizetest.c
 src\cdjpeg.c
 src\cjpeg.c
 src\djpeg.c
