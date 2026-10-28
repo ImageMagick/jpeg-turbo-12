@@ -7,6 +7,7 @@ Dependencies\jpeg-turbo\
 BITS_IN_JSAMPLE=12
 
 [EXCLUDES]
+cmakescripts\
 doc\
 fuzz\
 jna\
